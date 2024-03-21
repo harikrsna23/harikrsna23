@@ -10,7 +10,7 @@ Welcome to my GitHub repository! Here, you'll find a showcase of my diverse expe
 
 ## Projects
 
-Explore my projects spanning web scraping, text analysis, Power BI dashboards, E-commerce chatbots, and price prediction models. Each project demonstrates my proficiency in various technologies such as Python, NLP, Power BI, and machine learning algorithms.
+Explore my projects spanning Market segmentation analysis, Time series foreasting, Power BI dashboards, Rulebased chatbots, and price prediction models. Each project demonstrates my proficiency in various technologies such as Python and its libraries, NLP, Power BI, and machine learning algorithms.
 
 ## Trainings & Education
 
@@ -18,7 +18,7 @@ I've honed my skills through specialized training programs in Machine Learning a
 
 ## Skills & Interests
 
-With expertise in libraries like Pandas, Scikit-Learn, and TensorFlow, proficiency in languages like SQL and Python, and a keen interest in areas like Machine Learning, Artificial Intelligence, and Operations, I bring a multifaceted approach to problem-solving and innovation.
+With expertise in libraries like Pandas, Scikit-Learn, and  proficiency in languages like SQL and Python, and a keen interest in areas like Machine Learning, Artificial Intelligence, and Operations, I bring a multifaceted approach to problem-solving and innovation.
 
 ## Get in Touch
 
