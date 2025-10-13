@@ -1,33 +1,54 @@
-## Summary
 
-Welcome to my GitHub repository! Here, you'll find a showcase of my diverse experiences, projects, and skills in the fields of Machine Learning, Data Analytics, and Mechanical Engineering. From internships to volunteering roles, I've cultivated a strong foundation in leveraging data-driven insights for problem-solving and innovation.
-
-## Work Experience
-
-- **Machine Learning Intern** at Feynn Labs, where I contributed to AI product ideation, prototyping, and market research. Notably, I developed the prototype for an 'Intelligent Logistics Optimization Platform' tailored for E-commerce and courier companies.
-- **Intern** at SP Wheels Royal Enfield, focusing on vehicle maintenance operations and conceptualizing business models.
-- **Volunteer** roles in business plan development and component selection for vehicle braking systems.
-
-## Projects
-
-Explore my projects spanning Market segmentation analysis, Time series foreasting, Power BI dashboards, Rulebased chatbots, and price prediction models. Each project demonstrates my proficiency in various technologies such as Python and its libraries, NLP, Power BI, and machine learning algorithms.
-
-## Trainings & Education
-
-I've honed my skills through specialized training programs in Machine Learning and Data Analytics, complementing my academic background in Mechanical Engineering.
-
-## Skills & Interests
-
-With expertise in libraries like Pandas, Scikit-Learn, and  proficiency in languages like SQL and Python, and a keen interest in areas like Machine Learning, Artificial Intelligence, and Operations, I bring a multifaceted approach to problem-solving and innovation.
-
-## Get in Touch
-
-I'm always eager to collaborate on exciting projects or discuss opportunities in the realms of data-driven decision-making, machine learning, and beyond. Feel free to reach out via email at [harikrsna23@gmail.com](mailto:harikrsna23@gmail.com).
-
----
-
-Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring new possibilities together.
 <!---
 harikrsna23/harikrsna23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Data Analyst • AI Safety Specialist • LLMops
+
+## About
+
+I'm a data-focused AI safety specialist and analyst with industry experience in generative AI trust & safety. I blend practical engineering skills with rigorous analytical thinking to evaluate model behavior, run red-team style tests, and build data-driven tooling that improves product safety.
+
+## Snapshot
+
+Education: B.Tech in Mechanical Engineering (2023).
+
+Current role: Data Analyst / AI Safety Specialist (apprenticeship-level experience at Google T&S GenAI).
+
+Domain focus: AI safety, risk/abuse analysis, data analytics, MLOps.
+
+Strengths: Practical Python and SQL, DBMS, Probability & Statistics, Responsible AI Framework, User feedback analysis.
+
+Tools & frameworks: LangChain, TensorFlow, Docker, Kubernetes, Linux CLI, basic containerization.
+
+## Experience Highlights
+
+Google — T&S GenAI (Data Analyst Apprentice)
+
+Supported pre- and post-launch safety evaluations for multiple flagship generative AI products using prompt testing, LLM behavioral analysis, and red‑teaming methodologies.
+
+Conducted data-driven audits and model output analyses aimed at Responsible AI compliance.
+
+Feynn Labs — ML intern
+
+- Conducted data analysis on 60,000+ EV records across India using Python, Pandas, and SQL, deriving insights that shaped
+
+market strategies for startups.
+
+- Engineered a prototype for an Intelligent Logistics Optimization Platform leveraging clustering + route optimization
+
+techniques, aimed at reducing courier delivery time and costs.
+
+## Skills
+
+Languages: Python, SQL
+
+Data & ML: Exploratory data analysis, model evaluation, statistics, prompt engineering basics
+
+LLMOps / MLOps: Docker, Kubernetes, basic CI/CD concepts
+
+## Career targets: Engineering Analyst, AI Protection Analyst, Data Scientist, MLops/LLMOps, AI/ML Engineer.
+
+Interests
+
+Automobiles, football, and building stuff.
