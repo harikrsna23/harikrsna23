@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m Harikrishna 👋  
 
-Business Intelligence Engineer & Data Analyst working at the intersection of **analytics, risk, and large-scale AI systems**.
+Data Analyst working at the intersection of **analytics, risk, and large-scale AI systems**.
 
 I focus on turning messy, high-volume data into **clear metrics, trustworthy dashboards, and decision-ready insights**—especially in safety-critical and user-impacting domains.
 
