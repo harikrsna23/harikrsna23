@@ -26,12 +26,18 @@ I focus on turning messy, high-volume data into **clear metrics, trustworthy das
 **Data Analyst Apprentice — Google (Hyderabad)**  
 *June 2024 – Present*
 
-- Evaluated user behavior and risk signals across **8+ large-scale GenAI products** for Under-18 users  
-- Analyzed **80M+ user interactions** to surface behavioral, regional, and intent-based trends  
-- Optimized review thresholds, reducing **manual effort by ~70%** while preserving quality  
-- Built and maintained **end-to-end SQL reporting pipelines** supporting **50M+ DAU**  
-- Developed dashboards for KPI tracking, trend analysis, and anomaly detection  
-- Partnered with Product, Engineering, and Operations to convert insights into execution  
+- Designed and productionized a multi-class classifier evaluation framework processing 100K+ bi-weekly user feedback
+signals, reducing manual review time by 4 FTE-hours per iteration and improving prioritization precision by 18% through
+structured error taxonomy and threshold tuning.
+• Led safety analytics for 6+ U18 GenAI product launches (e.g., NotebookLM, Gemini Web App), overseeing the pipeline from
+Adversarial prompt generation - multi-stage QA - classifier performance review - Loss pattern analysis - reporting, enabling
+zero P0 safety incidents at launch.
+• Evaluated sensitivity–precision tradeoffs for the U18 safety classifier, recommending an optimized threshold configuration
+projected to reduce U18 policy violations by 50% (1.1% → 0.6%), materially improving child-safety outcomes at scale.
+• Owned behavioral log analysis across 2.9M+ AIM U18 interactions (lexical, geo-language, SOS signals), surfacing systemic
+safety patterns that guided adversarial testing strategies and improved detection of self-harm and high-risk content.
+• Analyzed 6.79M+ U13 Google Assistant queries to map engagement patterns and traffic distribution across feature
+verticals, informing risk assessments and pre-launch safety reviews for youth-facing surfaces.
 
 **Machine Learning Intern — Feynn Labs**  
 *Jan 2024 – Mar 2024*
